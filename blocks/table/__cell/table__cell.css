@@ -1,0 +1,6 @@
+.table__cell {
+  flex-wrap: wrap;
+  width: 250px;
+  min-height: auto;
+  margin-top: 60px;
+  }
