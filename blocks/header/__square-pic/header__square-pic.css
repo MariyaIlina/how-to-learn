@@ -4,8 +4,7 @@
   width: 568px;
   top: 64px;
   right: 0;
-  z-index: 2;
+  z-index: 1;
   background: #2f80ed;
   background-size: cover;
-  animation: rotation 20s linear infinite;
 }
